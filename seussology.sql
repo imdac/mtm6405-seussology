@@ -107,9 +107,9 @@ CREATE TABLE `quotes` (
 INSERT INTO `quotes` (`quote_id`, `quote`, `book_id`) VALUES
 (1,	'Stop telling such outlandish tales. Stop turning minnows into whales.',	1),
 (2,	'For I had a story that no one could beat! And to think that I saw it on Mulberry Street!',	1),
-(3,	'Dig a hole five furlongs deep, Down to where the night snakes creep, Mix and mold the mystic mud, Malber, Balber, Tidder, Tudd.”',	2),
-(4,	'They only say it just “happened to happen” and was not very likely to happen again.',	2),
-(5,	'If he wants to have a bit of fun… sure!… let him have it!”',	3),
+(3,	'Dig a hole five furlongs deep, Down to where the night snakes creep, Mix and mold the mystic mud, Malber, Balber, Tidder, Tudd.',	2),
+(4,	'They only say it just "happened to happen" and was not very likely to happen again.',	2),
+(5,	'If he wants to have a bit of fun… sure!… let him have it!',	3),
 (6,	'I meant what I said And I said what I meant… An elephant’s faithful One hundred percent!',	4),
 (7,	'If a fellow is patient, he might get his wish!',	5),
 (8,	'There’s room there to spare, and I’m happy to share!',	6),
